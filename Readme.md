@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[FrameHoverHelper.cs](./CS/FrameHoverHelper.cs) (VB: [FrameHoverHelper.vb](./VB/FrameHoverHelper.vb))**
+* [TileControlForm.cs](./CS/TileControlForm.cs) (VB: [TileControlForm.vb](./VB/TileControlForm.vb))
+* [WindowsUIForm.cs](./CS/WindowsUIForm.cs) (VB: [WindowsUIForm.vb](./VB/WindowsUIForm.vb))
+<!-- default file list end -->
 # How to animate tile frames on hovering over with the mouse
 
 
